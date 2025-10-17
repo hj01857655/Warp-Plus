@@ -191,11 +191,11 @@ warp-plus/
 
 ## 👤 作者
 
-**呆橘** (DaiJu)
+**hj01857655**
 
 - GitHub: [@hj01857655](https://github.com/hj01857655)
 - QQ 群: [1048579623](https://qm.qq.com/q/kxKOBv48bC)
 
 ## 📝 开源协议
 
-MIT License © 2025 呆橘
+MIT License © 2025 hj01857655
