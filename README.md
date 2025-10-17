@@ -185,7 +185,7 @@ warp-plus/
 
 ## 🔗 相关链接
 
-- **QQ 交流群**：[1014952167](https://qm.qq.com/q/vi1EFO0mxG)
+- **QQ 交流群**：[1048579623](https://qm.qq.com/q/kxKOBv48bC)
 - **Tauri 文档**：https://tauri.app/
 - **React 文档**：https://react.dev/
 
@@ -194,7 +194,7 @@ warp-plus/
 **呆橘** (DaiJu)
 
 - GitHub: [@hj01857655](https://github.com/hj01857655)
-- QQ 群: [1014952167](https://qm.qq.com/q/vi1EFO0mxG)
+- QQ 群: [1048579623](https://qm.qq.com/q/kxKOBv48bC)
 
 ## 📝 开源协议
 

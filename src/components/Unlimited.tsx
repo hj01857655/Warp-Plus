@@ -59,7 +59,7 @@ function Unlimited() {
         <div className="unlimited-actions">
           <a
             className="join-group-btn"
-            href="https://qm.qq.com/q/vi1EFO0mxG"
+            href="https://qm.qq.com/q/kxKOBv48bC"
             target="_blank"
             rel="noopener noreferrer"
           >

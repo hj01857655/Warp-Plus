@@ -320,12 +320,12 @@ function Login({ onLoginSuccess, session }: LoginProps) {
           <span className="ad-group">
             QQ群:
             <a 
-              href="https://qm.qq.com/q/vi1EFO0mxG" 
+              href="https://qm.qq.com/q/kxKOBv48bC" 
               target="_blank" 
               rel="noopener noreferrer"
               className="ad-group-link"
             >
-              1014952167
+              1048579623
             </a>
           </span>
         </div>
