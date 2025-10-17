@@ -193,7 +193,7 @@ warp-plus/
 
 **呆橘** (DaiJu)
 
-- GitHub: [@xn030523](https://github.com/xn030523)
+- GitHub: [@hj01857655](https://github.com/hj01857655)
 - QQ 群: [1014952167](https://qm.qq.com/q/vi1EFO0mxG)
 
 ## 📝 开源协议

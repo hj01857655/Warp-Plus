@@ -65,7 +65,7 @@ jobs:
             
             ### 🔗 相关链接
             - QQ 交流群: [1014952167](https://qm.qq.com/q/vi1EFO0mxG)
-            - GitHub: [Warp-Plus](https://github.com/xn030523/Warp-Plus)
+            - GitHub: [Warp-Plus](https://github.com/hj01857655/Warp-Plus)
           releaseDraft: false
           prerelease: false
           args: ${{ matrix.os == 'macos-latest' && '--target universal-apple-darwin' || '' }}
